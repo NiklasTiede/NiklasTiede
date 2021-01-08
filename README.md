@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
+[![niklastiede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
+
 <!--
 **NiklasTiede/NiklasTiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
