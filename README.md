@@ -1,3 +1,5 @@
+<img align="center" src="forrest_ani.gif"/>
+
 ## Hi there 👋
 
 I changed somethin'
@@ -17,7 +19,6 @@ text
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
 :raccoon:
-
 :elephant:
 :computer:
 :musical_score:
@@ -26,7 +27,6 @@ text
 :smile_cat:
 :whale:
 :cherries:
-
 :watermelon:
 
 <!--
