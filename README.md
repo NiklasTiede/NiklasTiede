@@ -8,7 +8,6 @@
 
 :elephant:
 :computer:
-:panda:
 :musical_score:
 :ocean:
 :comet:
