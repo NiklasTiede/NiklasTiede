@@ -2,10 +2,10 @@
 
 text -->
 
-<!-- ![alt text](forrest_ani.gif "It's cold outside...") -->
+![alt text](forrest_ani.gif "It's cold outside...")
 <!-- ![alt text](sonic3.gif "It's cold outside...") -->
 
-<img src="sonic3.gif" height="50px">
+<!-- <img src="pacman2.gif" height="100px"> -->
 
 ## Hi there 👋
 
