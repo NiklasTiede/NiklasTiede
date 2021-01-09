@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+text
+
+my blog: [My Blog](https://the-coding-lab.com/)
+
+
+my current project: [spasco](https://github.com/NiklasTiede/spasco)
+
+a long term project of mine: [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs)
+
+## About Me
+
+text
 
 [![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
 
