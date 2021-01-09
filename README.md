@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-text
+I changed somethin'
 
 my blog: [My Blog](https://the-coding-lab.com/)
-
 
 my current project: [spasco](https://github.com/NiklasTiede/spasco)
 
