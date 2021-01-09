@@ -4,9 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
+:raccoon:
 
-
-
+:elephant:
+:computer:
+:panda:
+:musical_score:
+:ocean:
+:comet:
 
 <!--
 **NiklasTiede/NiklasTiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
