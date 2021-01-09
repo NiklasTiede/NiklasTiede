@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-*****
 
 [![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
 
