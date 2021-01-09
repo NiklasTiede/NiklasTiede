@@ -1,5 +1,9 @@
-<img align="center" src="forrest_ani.gif"/>
+<!-- <img align="center" src="forrest_ani.gif"/>
 
+text -->
+
+<!-- ![alt text](forrest_ani.gif "It's cold outside...") -->
+![alt text](sonic1.gif "It's cold outside...")
 ## Hi there 👋
 
 I changed somethin'
