@@ -25,7 +25,6 @@ text
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
-:raccoon:
 :elephant:
 :computer:
 :musical_score:
@@ -35,6 +34,8 @@ text
 :whale:
 :cherries:
 :watermelon:
+
+![alt text](cat.gif "It's cold outside...")
 
 <!--
 **NiklasTiede/NiklasTiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
