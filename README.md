@@ -9,23 +9,25 @@ text -->
 
 ## Hi there 👋
 
-I changed somethin'
+My name is Niklas and I am a chemist who really enjoys to dive into code. There are still so many projects to discover, so many stuff to build. What a time to be alive :wink:
 
-my blog: [My Blog](https://the-coding-lab.com/)
+- Visit my blog [the coding lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
 
-my current project: [spasco](https://github.com/NiklasTiede/spasco)
+- Currently, I'm working on [spasco](https://github.com/NiklasTiede/spasco), a tiny command line tool
 
-a long term project of mine: [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs)
+- a long term project of mine: [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs)
 
-## About Me
+## More About Me
 
-text
+Some statictics to give prove that I do not pretend being a noob:
 
 [![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
-:elephant:
+<!-- ![alt text](cat.gif "just cute") ausschneiden -->
+
+<!-- :elephant:
 :computer:
 :musical_score:
 :ocean:
@@ -33,9 +35,7 @@ text
 :smile_cat:
 :whale:
 :cherries:
-:watermelon:
-
-![alt text](cat.gif "It's cold outside...")
+:watermelon: -->
 
 <!--
 **NiklasTiede/NiklasTiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
