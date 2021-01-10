@@ -17,7 +17,7 @@ My name is Niklas and I am a chemist who really enjoys to dive into code. There 
 
 - Currently, I'm working on [spasco](https://github.com/NiklasTiede/spasco), a tiny command line tool
 
-- a long term project of mine: [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs)
+- :marathon: a long term project of mine: [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs)
 
 <details>
     <summary><b>Some statistics about me...</b></summary>
