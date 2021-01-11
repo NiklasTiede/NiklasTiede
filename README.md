@@ -82,7 +82,7 @@ Tools I'm feelin' comfortable with:
 
 ---
 
-Ask me anything via email.
+Ask me anything [here](https://github.com/NiklasTiede/NiklasTiede/issues) or via email.
 Happy Coding!
 
 <!-- 👋 👻 🔧 -->
