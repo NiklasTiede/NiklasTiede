@@ -4,8 +4,7 @@
 
 <h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
-
-My name is Niklas and I am a chemist who really enjoys to dive into code. There are still so many projects to discover, so much stuff to build. What a time to be alive :wink:
+My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm, as you might be, swinging the virtual hammer on the never-ending quest for building things. I'm grateful for you guys work and this terrific community! Work, work! :hammer:
 
 - :pencil2:  Visit my blog [the coding lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
 
