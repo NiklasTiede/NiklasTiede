@@ -12,7 +12,7 @@
 
 My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm, as you might be, swinging the virtual hammer on the never-ending quest for building things. I'm grateful for you guys work and this terrific community! And now... work, work! :hammer:
 
-<a href="#"><img align="right" src="assets/link.gif" width="150" /></a>
+<!-- <a href="#"><img align="right" src="assets/link.gif" width="150" /></a> -->
 
 - :pencil2:  Visit my blog [the coding lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
 
