@@ -14,11 +14,11 @@ My name is Niklas and I am a chemist who really enjoys to dive into code. I disc
 
 <!-- <a href="#"><img align="right" src="assets/link.gif" width="150" /></a> -->
 
-- :pencil2:  Visit my blog [the coding lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
+- :pencil2:  Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
 
-- 🚧 Currently I'm working on [spasco](https://github.com/NiklasTiede/spasco) | *a tiny command line tool for renaming files/dirs.*
+- 🚧 Currently I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | *a tiny command line tool for renaming files/dirs.*
 
-- 🏃🏼‍♂️ A long term project of mine is [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | *an interface to the quantum chemistry library ORCA.* 
+- 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | *an interface to the quantum chemistry library ORCA.* 
 
 Tools I'm feelin' comfortable with:
 
