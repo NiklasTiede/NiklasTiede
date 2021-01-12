@@ -10,7 +10,7 @@
 
 <h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
-My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm, as you might be, swinging the virtual hammer on the never-ending quest for building things. I'm grateful for you guys work and this terrific community! Work, work! :hammer:
+My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm, as you might be, swinging the virtual hammer on the never-ending quest for building things. I'm grateful for you guys work and this terrific community! And now... work, work! :hammer:
 
 <!-- <a href="#"><img align="right" src="assets/pikachu1.gif" width="150" /></a> -->
 
@@ -19,7 +19,6 @@ My name is Niklas and I am a chemist who really enjoys to dive into code. I disc
 - 🚧 Currently I'm working on [spasco](https://github.com/NiklasTiede/spasco) | *a tiny command line tool for renaming files/dirs.*
 
 - 🏃🏼‍♂️ A long term project of mine is [feedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | *an interface to the quantum chemistry library ORCA.* 
-
 
 Tools I'm feelin' comfortable with:
 
