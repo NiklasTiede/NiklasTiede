@@ -16,60 +16,48 @@ My name is Niklas and I am a chemist who really enjoys to dive into code. I disc
 Tools I'm feelin' comfortable with:
 
 <p id="Icons" align="center">
-
   <a alt="linux">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="bash">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
   </a>
-
   <a href="https://github.com/NiklasTiede?tab=repositories&q=&type=&language=python" alt="python">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="anaconda">
     <img src="https://img.shields.io/badge/pm-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=7d7038" />
   </a>
-  
   <a alt="VSCode">
     <img src="https://img.shields.io/badge/IDE-VSCode-i?style=flat&logo=visual-studio-code&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="jupyter">
     <img src="https://img.shields.io/badge/IDE-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="pandas">
     <img src="https://img.shields.io/badge/lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="pytorch">
     <img src="https://img.shields.io/badge/lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="mongodb">
     <img src="https://img.shields.io/badge/db-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="PostgreSQL">
     <img src="https://img.shields.io/badge/db-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="Github-actions">
     <img src="https://img.shields.io/badge/CI-GH_Actions-informational?style=flat&logo=Github-actions&logoColor=white&color=7d7038" />
   </a>
-
   <a alt="readthedocs">
     <img src="https://img.shields.io/badge/docs-Read the Docs-informational?style=flat&logo=read-the-docs&logoColor=white&color=7d7038" />
   </a>
-
 </p>
 
+<!-- Some more statistics... 📈 -->
 
 <details>
-    <summary><b>Some more statistics... 📈</b></summary>
+    <summary><b>:zap: GitHub Stats</b></summary>
 
 <br>
 
