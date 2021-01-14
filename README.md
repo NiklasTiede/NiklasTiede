@@ -11,7 +11,7 @@
 <h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
 <p align="justify">
-  My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm, as you might be, swinging the virtual hammer on the never-ending quest for building things. I'm grateful for you guys work and this terrific community! And now... work, work! :hammer:
+  My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
 
 <!-- <a href="#"><img align="right" src="assets/link.gif" width="150" /></a> -->
