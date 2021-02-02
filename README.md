@@ -1,4 +1,3 @@
-
 ![](assets/forrest.gif "It's cold outside...")
 
 <!-- <p id="website" align="center">
@@ -15,11 +14,11 @@
 
 <!-- <a href="#"><img align="right" src="assets/link.gif" width="150" /></a> -->
 
-- :pencil2:  Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're  interested in cheminformatics
+- :pencil2: Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in cheminformatics
 
-- 🚧 Currently I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | *a tiny command line tool for renaming files/dirs.*
+- 🚧 Currently I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
 
-- 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | *an interface to the quantum chemistry library ORCA.* 
+- 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
 Tools I'm feelin' comfortable with:
 
