@@ -6,17 +6,18 @@
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
 
-- Currently I am learning web programming using fastAPI and react.
+- :seedling: Currently I am learning web programming with fastAPI and react.
 
-- 🚧 Currently I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
+- 🚧 Furthermore, I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
-### :pencil2: Latest Blog posts
+## :pencil2: Latest Blog posts
 
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Publishing at Anaconda - 9/9](https://the-coding-lab.com/posts/9-publishing-at-anaconda/)
 - [Publishing at PyPI - 8/9](https://the-coding-lab.com/posts/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/posts/7-documentation/)
@@ -24,45 +25,45 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 - [Distribution via Setup File - 5/9](https://the-coding-lab.com/posts/5-distribution-via-setup-file/)
 <!-- BLOG-POST-LIST:END -->
 
-Tools I'm feelin' comfortable with:
+Tools I love to work with:
 
 <p id="Icons" align="center">
   <a alt="linux">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7d7038" />
   </a>
-  <a alt="bash">
+  <!-- <a alt="bash">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
-  </a>
+  </a> -->
   <a href="https://github.com/NiklasTiede?tab=repositories&q=&type=&language=python" alt="python">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7d7038" />
   </a>
-  <a alt="anaconda">
+  <!-- <a alt="anaconda">
     <img src="https://img.shields.io/badge/pm-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=7d7038" />
-  </a>
-  <a alt="VSCode">
+  </a> -->
+  <!-- <a alt="VSCode">
     <img src="https://img.shields.io/badge/IDE-VSCode-i?style=flat&logo=visual-studio-code&logoColor=white&color=7d7038" />
-  </a>
+  </a> -->
   <a alt="jupyter">
     <img src="https://img.shields.io/badge/IDE-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=7d7038" />
   </a>
-  <a alt="pandas">
+  <!-- <a alt="pandas">
     <img src="https://img.shields.io/badge/lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=7d7038" />
-  </a>
+  </a> -->
   <a alt="pytorch">
     <img src="https://img.shields.io/badge/lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=7d7038" />
   </a>
   <a alt="mongodb">
     <img src="https://img.shields.io/badge/db-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7d7038" />
   </a>
-  <a alt="PostgreSQL">
+  <!-- <a alt="PostgreSQL">
     <img src="https://img.shields.io/badge/db-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7d7038" />
-  </a>
+  </a> -->
   <a alt="Github-actions">
     <img src="https://img.shields.io/badge/CI-GH_Actions-informational?style=flat&logo=Github-actions&logoColor=white&color=7d7038" />
   </a>
-  <a alt="readthedocs">
+  <!-- <a alt="readthedocs">
     <img src="https://img.shields.io/badge/docs-Read the Docs-informational?style=flat&logo=read-the-docs&logoColor=white&color=7d7038" />
-  </a>
+  </a> -->
 </p>
 
 <!-- Some more statistics... 📈 -->
