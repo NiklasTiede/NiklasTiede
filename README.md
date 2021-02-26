@@ -1,18 +1,10 @@
 ![](assets/forrest.gif "It's cold outside...")
 
-<!-- <p id="website" align="center">
-  <a href="https://the-coding-lab.com" alt="My-Blog" >
-    <img src="https://img.shields.io/website?label=the-coding-lab.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" height=25px/>
-  </a>
-</p> -->
-
 <h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
 <p align="justify">
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
-
-<!-- <a href="#"><img align="right" src="assets/link.gif" width="150" /></a> -->
 
 - :pencil2: Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in cheminformatics
 
@@ -23,6 +15,7 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Publishing at Anaconda - 9/9](https://the-coding-lab.com/posts/9-publishing-at-anaconda/)
 - [Publishing at PyPI - 8/9](https://the-coding-lab.com/posts/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/posts/7-documentation/)
