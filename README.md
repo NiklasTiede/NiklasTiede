@@ -15,7 +15,6 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Publishing at Anaconda - 9/9](https://the-coding-lab.com/posts/9-publishing-at-anaconda/)
 - [Publishing at PyPI - 8/9](https://the-coding-lab.com/posts/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/posts/7-documentation/)
