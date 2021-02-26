@@ -20,7 +20,7 @@
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
-### Blog posts
+### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Publishing at Anaconda - 9/9](https://niklastiede.github.io/posts/9-publishing-at-anaconda/)
