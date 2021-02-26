@@ -1,12 +1,12 @@
-![](assets/forrest.gif "It's cold outside...")
+![](assets/forrest.jpg "It's cold outside...")
 
-<h3 align="center">Hey there! <img src="assets/pikachu1.jpg" width="50px"> </h3>
+<h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
 <p align="justify">
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
 
-- :pencil2: Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in cheminformatics
+- Currently I am learning web programming using fastAPI and react.
 
 - 🚧 Currently I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
 
@@ -14,12 +14,18 @@
 
 ### :pencil2: Latest Blog posts
 
+Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
+
 <!-- BLOG-POST-LIST:START -->
+
+- [Publishing at Anaconda - 9/9](https://the-coding-lab.com/posts/9-publishing-at-anaconda/)
+- [Publishing at PyPI - 8/9](https://the-coding-lab.com/posts/8-publishing-at-pypi/)
+- [Documentation - 7/9](https://the-coding-lab.com/posts/7-documentation/)
+- [Testing and CI - 6/9](https://the-coding-lab.com/posts/6-testing-and-continous-integration/)
+- [Distribution via Setup File - 5/9](https://the-coding-lab.com/posts/5-distribution-via-setup-file/)
 <!-- BLOG-POST-LIST:END -->
 
 Tools I'm feelin' comfortable with:
-
-Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in cheminformatics
 
 <p id="Icons" align="center">
   <a alt="linux">
