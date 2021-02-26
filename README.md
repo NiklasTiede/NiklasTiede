@@ -23,6 +23,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing at Anaconda - 9/9](https://niklastiede.github.io/posts/9-publishing-at-anaconda/)
+- [Publishing at PyPI - 8/9](https://niklastiede.github.io/posts/8-publishing-at-pypi/)
+- [Documentation - 7/9](https://niklastiede.github.io/posts/7-documentation/)
+- [Testing and CI - 6/9](https://niklastiede.github.io/posts/6-testing-and-continous-integration/)
+- [Distribution via Setup File - 5/9](https://niklastiede.github.io/posts/5-distribution-via-setup-file/)
 <!-- BLOG-POST-LIST:END -->
 
 Tools I'm feelin' comfortable with:
