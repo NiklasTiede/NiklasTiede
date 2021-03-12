@@ -6,7 +6,7 @@
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
 
-- :seedling: Currently I am learning web programming with fastAPI and react.
+- :seedling: Currently I am learning web programming with fastAPI and flutter.
 
 - 🚧 Furthermore, I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
 
