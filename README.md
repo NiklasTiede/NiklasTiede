@@ -8,11 +8,11 @@
 
 - :seedling: Currently I am learning mobile development with Dart and Flutter.
 
-<!-- - 🚧 Furthermore, I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._ -->
+- 🚧 Furthermore, I'm working on some [Python Scripts](https://github.com/NiklasTiede/Python-Scripts-Collection) | _my collection of useful Python Scripts._
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
-## :pencil2: Latest Blog posts
+### :pencil2: Latest Blog posts
 
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
 
@@ -24,46 +24,75 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 - [Testing and CI - 6/9](https://the-coding-lab.com/2021/6-testing-and-continous-integration/)
 <!-- BLOG-POST-LIST:END -->
 
-Tools I love to work with:
+Tools I'm working with currently:
 
 <p id="Icons" align="center">
+  <a alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=black&color=FCC624" />
+  </a>
+  <a alt="Docker">
+    <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+  </a>
+  <a alt="Git">
+    <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  </a>
+  <a alt="Github-actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=for-the-badge&logo=Github-actions&logoColor=white&color=2088FF" />
+  </a>
+  <a alt="Hugo">
+    <img src="https://img.shields.io/badge/Hugo-informational?style=for-the-badge&logo=hugo&logoColor=white&color=FF4088" />
+  </a>
+  <a alt="Javascript">
+    <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
+  </a>
+  <br>
+  <a alt="Python">
+    <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+  </a>
+  <a alt="Fastapi">
+    <img src="https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" />
+  </a>
+  <a alt="PyTorch">
+    <img src="https://img.shields.io/badge/PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />
+  </a>
+  <a alt="Jupyter">
+    <img src="https://img.shields.io/badge/Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" />
+  </a>
+  <a alt="Dart">
+    <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=0175C2" />
+  </a>
+  <a alt="Flutter">
+    <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569B" />
+  </a>
+</p>
+
+
+
+
+<!-- <p id="Icons" align="center">
   <a alt="linux">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="javascript">
-    <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
-  </a> -->
   <a href="https://github.com/NiklasTiede?tab=repositories&q=&type=&language=python" alt="python">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="anaconda">
-    <img src="https://img.shields.io/badge/pm-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=7d7038" />
-  </a> -->
-  <!-- <a alt="VSCode">
-    <img src="https://img.shields.io/badge/IDE-VSCode-i?style=flat&logo=visual-studio-code&logoColor=white&color=7d7038" />
-  </a> -->
+  <a alt="Javascript">
+    <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
+  </a>
+  </a> 
   <a alt="jupyter">
     <img src="https://img.shields.io/badge/IDE-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="pandas">
-    <img src="https://img.shields.io/badge/lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=7d7038" />
-  </a> -->
   <a alt="pytorch">
     <img src="https://img.shields.io/badge/lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=7d7038" />
   </a>
   <a alt="mongodb">
     <img src="https://img.shields.io/badge/db-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/db-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7d7038" />
-  </a> -->
   <a alt="Github-actions">
     <img src="https://img.shields.io/badge/CI-GH_Actions-informational?style=flat&logo=Github-actions&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="readthedocs">
-    <img src="https://img.shields.io/badge/docs-Read the Docs-informational?style=flat&logo=read-the-docs&logoColor=white&color=7d7038" />
-  </a> -->
-</p>
+</p> -->
 
 <!-- Some more statistics... 📈 -->
 
@@ -83,23 +112,14 @@ Tools I love to work with:
 Ask me anything [here](https://github.com/NiklasTiede/NiklasTiede/issues) or via email.
 Happy Coding!
 
-<!-- 👋 👻 🔧 -->
 
-<!-- # chemical formula
-<p align="center">
-  H<sub>2</sub>SO<sub>4</sub> + 2NaOH &rarr; 2H<sub>2</sub>O + Na<sup>+</sup> + SO<sub>4</sub><sup>2-</sup>
-</p> -->
 
-<!-- # why adding spotify api?
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tnttfhh73nx44zimoaeofqyi6u) -->
+<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/7dtUDtBODLz7B5ULdViKpb?si=4cee8403d1054263)
 
-<!-- if the repos are finished for release I can link one into my profile readme:
 <a href="https://github.com/NiklasTiede/feedingORCAs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiklasTiede&repo=feedingORCAs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/NiklasTiede/spasco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiklasTiede&repo=spasco&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NiklasTiede&color=7d7038" />
