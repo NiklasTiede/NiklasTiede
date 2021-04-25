@@ -28,41 +28,41 @@ Tools I'm working with currently:
 
 <p id="Icons" align="center">
   <a alt="Linux">
-    <img src="https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=black&color=FCC624" />
+    <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
   </a>
   <a alt="Docker">
-    <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+    <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
   </a>
   <a alt="Git">
-    <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+    <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032" />
   </a>
   <a alt="Github-actions">
-    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=for-the-badge&logo=Github-actions&logoColor=white&color=2088FF" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
   </a>
   <a alt="Hugo">
-    <img src="https://img.shields.io/badge/Hugo-informational?style=for-the-badge&logo=hugo&logoColor=white&color=FF4088" />
+    <img src="https://img.shields.io/badge/Hugo-informational?style=flat-square&logo=hugo&logoColor=white&color=FF4088" />
   </a>
   <a alt="Javascript">
-    <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
+    <img src="https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" />
   </a>
   <br>
   <a alt="Python">
-    <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+    <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
   </a>
   <a alt="Fastapi">
-    <img src="https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" />
+    <img src="https://img.shields.io/badge/FastAPI-informational?style=flat-square&logo=fastapi&logoColor=white&color=009688" />
   </a>
   <a alt="PyTorch">
-    <img src="https://img.shields.io/badge/PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />
+    <img src="https://img.shields.io/badge/PyTorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=EE4C2C" />
   </a>
   <a alt="Jupyter">
-    <img src="https://img.shields.io/badge/Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" />
+    <img src="https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=jupyter&logoColor=white&color=F37626" />
   </a>
   <a alt="Dart">
-    <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=0175C2" />
+    <img src="https://img.shields.io/badge/Dart-informational?style=flat-square&logo=dart&logoColor=white&color=0175C2" />
   </a>
   <a alt="Flutter">
-    <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569B" />
+    <img src="https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=02569B" />
   </a>
 </p>
 
