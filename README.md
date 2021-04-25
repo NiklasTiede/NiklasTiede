@@ -1,4 +1,4 @@
-![](assets/forrest.jpg "It's cold outside...")
+![](assets/forrest.jpg)
 
 <h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
 
@@ -6,9 +6,9 @@
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
 </p>
 
-- :seedling: Currently I am learning web programming with fastAPI and flutter.
+- :seedling: Currently I am learning mobile development with Dart and Flutter.
 
-- 🚧 Furthermore, I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._
+<!-- - 🚧 Furthermore, I'm working on [Spasco](https://github.com/NiklasTiede/spasco) | _a tiny command line tool for renaming files/dirs._ -->
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
@@ -30,7 +30,7 @@ Tools I love to work with:
   <a alt="linux">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7d7038" />
   </a>
-  <!-- <a alt="bash">
+  <!-- <a alt="javascript">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
   </a> -->
   <a href="https://github.com/NiklasTiede?tab=repositories&q=&type=&language=python" alt="python">
