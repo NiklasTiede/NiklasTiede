@@ -1,6 +1,6 @@
 ![](assets/forrest.jpg)
 
-<h3 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h3>
+<h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
@@ -12,7 +12,7 @@
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
-### :pencil2: Latest Blog posts
+## :pencil2: Latest Blog posts
 
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
 
