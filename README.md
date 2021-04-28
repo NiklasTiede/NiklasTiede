@@ -17,11 +17,11 @@
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Environments with Conda and pip](https://the-coding-lab.com/2021/conda-and-pip/)
 - [Turning a Website into an API](https://the-coding-lab.com/2021/github-trending-api/)
 - [Publishing at Anaconda - 9/9](https://the-coding-lab.com/2021/9-publishing-at-anaconda/)
 - [Publishing at PyPI - 8/9](https://the-coding-lab.com/2021/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/2021/7-documentation/)
-- [Testing and CI - 6/9](https://the-coding-lab.com/2021/6-testing-and-continous-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 Tools I'm working with currently:
