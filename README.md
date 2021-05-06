@@ -31,6 +31,11 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 
 <br>
 
+[![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
+
+
 Tools I'm working with currently:
 
 <p id="Icons" align="center">
@@ -74,17 +79,13 @@ Tools I'm working with currently:
 </p>
 
 
-[![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
-
 </details>
 
----
+<!-- ---
 
 Ask me anything [here](https://github.com/NiklasTiede/NiklasTiede/issues) or via email.
 Happy Coding!
-
+ -->
 
 
 
