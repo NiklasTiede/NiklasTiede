@@ -3,18 +3,18 @@
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
-  My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community! And now... work, work! :hammer:
+  My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community!
 </p>
 
 - :seedling: Currently I am learning mobile development with Dart and Flutter.
 
-- 🚧 Furthermore, I'm working on some [Python Scripts](https://github.com/NiklasTiede/Python-Scripts-Collection) | _my collection of useful Python Scripts._
+<!-- - 🚧 Furthermore, I'm working on some [Python Scripts](https://github.com/NiklasTiede/Python-Scripts-Collection) | _my collection of useful Python Scripts._ -->
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
 ## :pencil2: Latest Blog posts
 
-Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python, software engineering and data analysis
+Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python-related things.
 
 <!-- BLOG-POST-LIST:START -->
 - [Managing Environments with Conda and pip](https://the-coding-lab.com/2021/conda-and-pip/)
@@ -23,6 +23,13 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 - [Publishing at PyPI - 8/9](https://the-coding-lab.com/2021/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/2021/7-documentation/)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+<details>
+    <summary><b>:zap: More about me...</b></summary>
+
+<br>
 
 Tools I'm working with currently:
 
@@ -66,11 +73,6 @@ Tools I'm working with currently:
   </a>
 </p>
 
-
-<details>
-    <summary><b>:zap: GitHub Stats</b></summary>
-
-<br>
 
 [![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
 
