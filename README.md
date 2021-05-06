@@ -6,7 +6,7 @@
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community!
 </p>
 
-- :seedling: Currently I am learning mobile development with Dart and Flutter.
+<!-- - :seedling: Currently I am learning mobile development with Dart and Flutter. -->
 
 <!-- - 🚧 Furthermore, I'm working on some [Python Scripts](https://github.com/NiklasTiede/Python-Scripts-Collection) | _my collection of useful Python Scripts._ -->
 
