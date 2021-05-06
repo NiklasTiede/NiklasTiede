@@ -1,4 +1,4 @@
-![](assets/forrest.jpg)
+<!-- ![](assets/forrest.jpg) -->
 
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
@@ -67,35 +67,6 @@ Tools I'm working with currently:
 </p>
 
 
-
-
-<!-- <p id="Icons" align="center">
-  <a alt="linux">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7d7038" />
-  </a>
-  <a href="https://github.com/NiklasTiede?tab=repositories&q=&type=&language=python" alt="python">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7d7038" />
-  </a>
-  <a alt="Javascript">
-    <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=gnu-bash&logoColor=white&color=7d7038" />
-  </a>
-  </a> 
-  <a alt="jupyter">
-    <img src="https://img.shields.io/badge/IDE-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=7d7038" />
-  </a>
-  <a alt="pytorch">
-    <img src="https://img.shields.io/badge/lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=7d7038" />
-  </a>
-  <a alt="mongodb">
-    <img src="https://img.shields.io/badge/db-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7d7038" />
-  </a>
-  <a alt="Github-actions">
-    <img src="https://img.shields.io/badge/CI-GH_Actions-informational?style=flat&logo=Github-actions&logoColor=white&color=7d7038" />
-  </a>
-</p> -->
-
-<!-- Some more statistics... 📈 -->
-
 <details>
     <summary><b>:zap: GitHub Stats</b></summary>
 
@@ -114,13 +85,7 @@ Happy Coding!
 
 
 
-<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/7dtUDtBODLz7B5ULdViKpb?si=4cee8403d1054263)
 
-<a href="https://github.com/NiklasTiede/feedingORCAs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiklasTiede&repo=feedingORCAs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NiklasTiede&color=7d7038" />
-</p>
+</p> -->
