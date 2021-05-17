@@ -8,7 +8,7 @@
 
 <!-- - :seedling: Currently I am learning mobile development with Dart and Flutter. -->
 
-<!-- - 🚧 Furthermore, I'm working on some [Python Scripts](https://github.com/NiklasTiede/Python-Scripts-Collection) | _my collection of useful Python Scripts._ -->
+- 🚧 Currently, I'm working on a [Python Wrapper for a COVID-19 API](https://github.com/NiklasTiede/COVID19-API-PythonClient).
 
 - 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
 
