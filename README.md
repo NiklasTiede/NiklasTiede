@@ -76,6 +76,9 @@ Tools I'm working with currently:
   <a alt="Flutter">
     <img src="https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=02569B" />
   </a>
+  <a alt="Java">
+    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
+  </a>
 </p>
 
 
