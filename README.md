@@ -19,7 +19,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 <!-- BLOG-POST-LIST:START -->
 - [Managing Environments with Conda and pip](https://the-coding-lab.com/2021/conda-and-pip/)
 - [Turning a Website into an API](https://the-coding-lab.com/2021/github-trending-api/)
-- [Publishing at Anaconda and Automation the Process - 9/9](https://the-coding-lab.com/2021/9-publishing-at-anaconda/)
+- [Publishing at Anaconda and Automating the Process - 9/9](https://the-coding-lab.com/2021/9-publishing-at-anaconda/)
 - [Releasing a Python App at Github/PyPI and Automate it - 8/9](https://the-coding-lab.com/2021/8-publishing-at-pypi/)
 - [Documentation - 7/9](https://the-coding-lab.com/2021/7-documentation/)
 <!-- BLOG-POST-LIST:END -->
