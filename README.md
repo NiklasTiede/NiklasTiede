@@ -61,6 +61,9 @@ Tools I'm working with currently:
   <a alt="Java">
     <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
   </a>
+    <a alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
+  </a>
   <a alt="Python">
     <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
   </a>
@@ -72,12 +75,6 @@ Tools I'm working with currently:
   </a>
   <a alt="Jupyter">
     <img src="https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=jupyter&logoColor=white&color=F37626" />
-  </a>
-  <a alt="Dart">
-    <img src="https://img.shields.io/badge/Dart-informational?style=flat-square&logo=dart&logoColor=white&color=0175C2" />
-  </a>
-  <a alt="Flutter">
-    <img src="https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=02569B" />
   </a>
 </p>
 
