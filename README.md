@@ -6,7 +6,7 @@
   My name is Niklas and I am a chemist who really enjoys to dive into code. I discovered the world of coding just recently and now I'm swinging, as you might be, the virtual hammer on the never-ending quest for building things. I'm grateful for the amazing work of you guys and this terrific community!
 </p>
 
-- :seedling: Currently I'm learning Java! ☕️
+- :seedling: Currently I'm learning Javascript! ☕️
 
 <!-- - 🚧 Furthermore, I'm working on a [Python Wrapper for a COVID-19 API](https://github.com/NiklasTiede/COVID19-API-PythonClient). -->
 
@@ -58,6 +58,9 @@ Tools I'm working with currently:
     <img src="https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" />
   </a>
   <br>
+  <a alt="Java">
+    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
+  </a>
   <a alt="Python">
     <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
   </a>
@@ -75,9 +78,6 @@ Tools I'm working with currently:
   </a>
   <a alt="Flutter">
     <img src="https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=02569B" />
-  </a>
-  <a alt="Java">
-    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
   </a>
 </p>
 
