@@ -66,8 +66,8 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Python">
     <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
   </a>
-  <a alt="Jupyter">
-    <img src="https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=jupyter&logoColor=white&color=F37626" />
+  <a alt="PyTorch">
+    <img src="https://img.shields.io/badge/PyTorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=EE4C2C" />
   </a>
   
 </p>
