@@ -37,8 +37,6 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 </details>
 
 
-Stuff I like:
-
 <p id="Icons" align="center">
   <a alt="Linux">
     <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
