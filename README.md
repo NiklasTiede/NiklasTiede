@@ -38,28 +38,28 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 
 
 <p id="Icons" align="center">
-  <a alt="Linux">
-    <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
+  
+    <a alt="Java">
+    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
   </a>
-  <a alt="Docker">
-    <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+    <a alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
   </a>
-  <a alt="Github-actions">
-    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
-  </a>
-  <a alt="Typescript">
+    <a alt="Typescript">
     <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
   </a>
     <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
   </a>
-  
-  <br>
-  <a alt="Java">
-    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
+  <a alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
   </a>
-    <a alt="Spring Boot">
-    <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
+  <br>
+  <a alt="Docker">
+    <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+  </a>
+  <a alt="Github-actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
   </a>
   <a alt="Python">
     <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
