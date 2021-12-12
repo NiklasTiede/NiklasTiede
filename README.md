@@ -50,7 +50,7 @@ Stuff I like:
     <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
   </a>
   <a alt="Typescript">
-    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=F7DF1E" />
+    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
   </a>
     <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
