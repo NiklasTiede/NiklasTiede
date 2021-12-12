@@ -34,6 +34,9 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
 
 
+</details>
+
+
 Tools I'm working with currently:
 
 <p id="Icons" align="center">
@@ -75,9 +78,6 @@ Tools I'm working with currently:
     <img src="https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=jupyter&logoColor=white&color=F37626" />
   </a>
 </p>
-
-
-</details>
 
 <!-- ---
 
