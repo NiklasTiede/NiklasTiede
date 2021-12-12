@@ -52,10 +52,6 @@ My favorites:
   <a alt="Javascript">
     <img src="https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" />
   </a>
-    <a alt="Typescript">
-    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0099ff" />
-  </a>
-    </a>
     <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
   </a>
