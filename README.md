@@ -39,22 +39,24 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 
 <p id="Icons" align="center">
   
-    <a alt="Java">
+  <a alt="Java">
     <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
   </a>
-    <a alt="Spring Boot">
+  <a alt="Spring Boot">
     <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
   </a>
-    <a alt="Typescript">
+  <a alt="Typescript">
     <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
   </a>
-    <a alt="React">
+  <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
   </a>
   <a alt="Linux">
     <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
   </a>
+  
   <br>
+  
   <a alt="Docker">
     <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
   </a>
@@ -73,6 +75,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Jupyter">
     <img src="https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=jupyter&logoColor=white&color=F37626" />
   </a>
+  
 </p>
 
 <!-- ---
