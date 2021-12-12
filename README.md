@@ -10,8 +10,6 @@
 
 <!-- - 🚧 Furthermore, I'm working on a [Python Wrapper for a COVID-19 API](https://github.com/NiklasTiede/COVID19-API-PythonClient). -->
 
-- 🏃🏼‍♂️ A long term project of mine is [FeedingORCAs](https://github.com/NiklasTiede/feedingORCAs) | _an interface to the quantum chemistry library ORCA._
-
 ## :pencil2: Latest Blog posts
 
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python-related things.
