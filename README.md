@@ -37,7 +37,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 </details>
 
 
-My favorites:
+Stuff I like:
 
 <p id="Icons" align="center">
   <a alt="Linux">
@@ -49,8 +49,8 @@ My favorites:
   <a alt="Github-actions">
     <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
   </a>
-  <a alt="Javascript">
-    <img src="https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" />
+  <a alt="Typescript">
+    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=F7DF1E" />
   </a>
     <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
