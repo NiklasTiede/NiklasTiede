@@ -37,7 +37,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 </details>
 
 
-Tools I'm working with currently:
+My favorites:
 
 <p id="Icons" align="center">
   <a alt="Linux">
@@ -46,18 +46,20 @@ Tools I'm working with currently:
   <a alt="Docker">
     <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
   </a>
-  <a alt="Git">
-    <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032" />
-  </a>
   <a alt="Github-actions">
     <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
-  </a>
-  <a alt="Hugo">
-    <img src="https://img.shields.io/badge/Hugo-informational?style=flat-square&logo=hugo&logoColor=white&color=FF4088" />
   </a>
   <a alt="Javascript">
     <img src="https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" />
   </a>
+    <a alt="Typescript">
+    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0099ff" />
+  </a>
+    </a>
+    <a alt="React">
+    <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
+  </a>
+  
   <br>
   <a alt="Java">
     <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
