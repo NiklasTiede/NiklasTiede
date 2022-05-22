@@ -43,54 +43,48 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Spring Boot">
     <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
   </a>
-  
+  <a alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571" />
+  </a>
+  <a alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600" />
+  </a>
   <a alt="Oracle">
     <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=oracle&logoColor=white&color=F80000" />
   </a>
-  
   <a alt="Typescript">
     <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
   </a>
   <a alt="React">
     <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
   </a>
-  <a alt="Linux">
-    <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
-  </a>
+
   
   <br>
-  
-  <a alt="Docker">
-    <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
-  </a>
-  <a alt="Github-actions">
-    <img src="https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=Github-actions&logoColor=white&color=2088FF" />
-  </a>
-  <a alt="Python">
-    <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
-  </a>
-  
-  <br>
-  
-  
-  <a alt="Elasticsearch">
-    <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571" />
-  </a>
-  <a alt="Kubernetes">
-    <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" />
-  </a>
-  <a alt="RabbitMQ">
-    <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600" />
-  </a>
+
   <a alt="Jenkins">
     <img src="https://img.shields.io/badge/Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939" />
   </a>
   <a alt="Grafana">
     <img src="https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana&logoColor=white&color=F46800" />
   </a>
-  <a alt="Oracle">
-    <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=oracle&logoColor=white&color=F80000" />
+  <a alt="Jira">
+    <img src="https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC" />
   </a>
+  <a alt="Docker">
+    <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+  </a>
+  <a alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" />
+  </a>
+  <a alt="Python">
+    <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
+  </a>
+  <a alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
+  </a>
+  
+  <br>
   
 </p>
 
