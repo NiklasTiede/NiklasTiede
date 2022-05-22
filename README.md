@@ -3,7 +3,7 @@
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
-  My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing java/react-based enterprise applications. 
+  My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java/react-based enterprise applications. 
 </p>
 
 <!-- - 🚧 Furthermore, I'm working on a [Python Wrapper for a COVID-19 API](https://github.com/NiklasTiede/COVID19-API-PythonClient). -->
