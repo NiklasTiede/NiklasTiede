@@ -74,6 +74,9 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Docker">
     <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
   </a>
+  <a alt="Rancher">
+    <img src="https://img.shields.io/badge/Rancher-informational?style=flat-square&logo=rancher&logoColor=white&color=0075A8" />
+  </a>
   <a alt="Kubernetes">
     <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" />
   </a>
