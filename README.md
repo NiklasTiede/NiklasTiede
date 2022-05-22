@@ -43,6 +43,11 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Spring Boot">
     <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
   </a>
+  
+  <a alt="Oracle">
+    <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=oracle&logoColor=white&color=F80000" />
+  </a>
+  
   <a alt="Typescript">
     <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
   </a>
@@ -67,13 +72,25 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   
   <br>
   
-  <a alt="Oracle">
-    <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=python&logoColor=white&color=F80000" />
+  
+  <a alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571" />
   </a>
-  
-  
-  
-  
+  <a alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" />
+  </a>
+  <a alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600" />
+  </a>
+  <a alt="Jenkins">
+    <img src="https://img.shields.io/badge/Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939" />
+  </a>
+  <a alt="Grafana">
+    <img src="https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana&logoColor=white&color=F46800" />
+  </a>
+  <a alt="Oracle">
+    <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=oracle&logoColor=white&color=F80000" />
+  </a>
   
 </p>
 
