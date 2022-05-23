@@ -91,6 +91,10 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   
 </p>
 
+
+
+Visit me on [Linkedin](https://www.linkedin.com/in/niklas-tiede-3b57451b6/) or [Dev.to](https://dev.to/niklastiede)!
+
 <!-- ---
 
 Ask me anything [here](https://github.com/NiklasTiede/NiklasTiede/issues) or via email.
