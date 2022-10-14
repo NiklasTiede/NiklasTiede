@@ -10,7 +10,7 @@
 
 ## :pencil2: Latest Blog posts
 
-Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python-related things.
+Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python- or Java-related things.
 
 <!-- BLOG-POST-LIST:START -->
 - [Managing Environments with Conda and pip](https://the-coding-lab.com/2021/conda-and-pip/)
