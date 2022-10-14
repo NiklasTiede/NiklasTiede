@@ -6,7 +6,7 @@
   My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java/react-based enterprise applications. 
 </p>
 
-<!-- - 🚧 Furthermore, I'm working on a [Python Wrapper for a COVID-19 API](https://github.com/NiklasTiede/COVID19-API-PythonClient). -->
+- 🚧 Currently I'm working on a real-world example [IMDb Clone](https://github.com/NiklasTiede/IMDb-Clone).
 
 ## :pencil2: Latest Blog posts
 
