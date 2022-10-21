@@ -46,8 +46,8 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   <a alt="Elasticsearch">
     <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571" />
   </a>
-  <a alt="RabbitMQ">
-    <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600" />
+  <a alt="ActiveMQ">
+    <img src="https://img.shields.io/badge/ActiveMQ-informational?style=flat-square&logo=activemq&logoColor=white&color=FF6600" />
   </a>
   <a alt="Oracle">
     <img src="https://img.shields.io/badge/Oracle-informational?style=flat-square&logo=oracle&logoColor=white&color=F80000" />
@@ -67,9 +67,6 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   </a>
   <a alt="Grafana">
     <img src="https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana&logoColor=white&color=F46800" />
-  </a>
-  <a alt="Jira">
-    <img src="https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC" />
   </a>
   <a alt="Docker">
     <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
