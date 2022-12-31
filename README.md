@@ -38,7 +38,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 <p id="Icons" align="center">
   
   <a alt="Java">
-    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=EE4C2C" />
+    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=OpenJDK&logoColor=white&color=EE4C2C" />
   </a>
   <a alt="Spring Boot">
     <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
