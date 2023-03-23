@@ -37,7 +37,29 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 
 <p id="Icons" align="center">
   
-  <a alt="Java">
+    <a alt="Java">
+    <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=OpenJDK&logoColor=white&color=EE4C2C" />
+  </a>
+  <a alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=39bf5d" />
+  </a>
+  <a alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571" />
+  </a>
+    <a alt="Typescript">
+    <img src="https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=black&color=0084ff" />
+  </a>
+  <a alt="React">
+    <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=black&color=00c2ed" />
+  </a>
+    <a alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" />
+  </a>
+  <a alt="Python">
+    <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
+  </a>
+  
+<!--   <a alt="Java">
     <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=OpenJDK&logoColor=white&color=EE4C2C" />
   </a>
   <a alt="Spring Boot">
@@ -82,7 +104,7 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
   </a>
   <a alt="Linux">
     <img src="https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624" />
-  </a>
+  </a> -->
   
   <br>
   
