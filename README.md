@@ -6,7 +6,7 @@
   My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java/react-based enterprise applications. 
 </p>
 
-- 🚧 Currently, I'm building an [IMDb Clone](https://github.com/NiklasTiede/IMDb-Clone), a real-world example app.
+- 🚧 Currently, I'm building the [IMDb Clone](https://github.com/NiklasTiede/IMDb-Clone), a real-world example app. It is a Spring Boot / React Web App which makes use of modern Technologies like Elasticsearch, Minio Filestorage and MySQL.
 
 ## :pencil2: Latest Blog posts
 
