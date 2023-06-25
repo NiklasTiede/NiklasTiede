@@ -13,7 +13,7 @@
 Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python-, Java- or React-related topics.
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Cheaply Host Your Full-Stack Side-Project: Serving it From Home]([https://the-coding-lab.com/2021/conda-and-pip/](https://the-coding-lab.com/2023/deploy-full-stack-app-on-home-server/)
+- [How to Cheaply Host Your Full-Stack Side-Project: Serving it From Home](https://the-coding-lab.com/2023/deploy-full-stack-app-on-home-server/)
 - [Managing Environments with Conda and pip](https://the-coding-lab.com/2021/conda-and-pip/)
 - [Turning a Website into an API](https://the-coding-lab.com/2021/github-trending-api/)
 - [Publishing at Anaconda and Automating the Process - 9/9](https://the-coding-lab.com/2021/9-publishing-at-anaconda/)
