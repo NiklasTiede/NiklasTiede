@@ -3,7 +3,7 @@
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
-  My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java/react-based enterprise applications. 
+  My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java-based applications. 
 </p>
 
 - 🚧 Currently, I'm building the [IMDb Clone](https://github.com/NiklasTiede/IMDb-Clone), a real-world example app. It is a Spring Boot / React Web App which makes use of modern Technologies like Elasticsearch, Minio Filestorage and MySQL.
