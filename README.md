@@ -3,14 +3,12 @@
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
-  My name is Niklas and I am a former chemist who enjoys building software so I transitioned to the area of software development! In my professional environment I'm writing primarily java-based applications. 
+  Started in a chemistry lab, traded flasks for Java. Still synthesizing thing, just virtually. 😉 Currently exploring LLMs and building tools that make life easier.
 </p>
 
-- 🚧 Currently, I'm building the [IMDb Clone](https://github.com/NiklasTiede/IMDb-Clone), a real-world example app. It is a Spring Boot / React Web App which makes use of modern Technologies like Elasticsearch, Minio Filestorage and MySQL.
+## :pencil2: (Older) Blog posts
 
-## :pencil2: Latest Blog posts
-
-Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested in Python-, Java- or React-related topics.
+Visit [The Coding Lab](https://the-coding-lab.com/) if you're interested in Engineering-related topics.
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Cheaply Host Your Full-Stack Side-Project: Serving it From Home](https://the-coding-lab.com/2023/deploy-full-stack-app-on-home-server/)
@@ -19,21 +17,6 @@ Visit my blog [The Coding Lab](https://the-coding-lab.com/) if you're interested
 - [Publishing at Anaconda and Automating the Process - 9/9](https://the-coding-lab.com/2021/9-publishing-at-anaconda/)
 - [Releasing a Python App at Github/PyPI and Automate it - 8/9](https://the-coding-lab.com/2021/8-publishing-at-pypi/)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-<details>
-    <summary><b>:zap: More about me...</b></summary>
-
-<br>
-
-[![niklastiede's github stats](https://github-readme-stats.vercel.app/api?username=niklastiede&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niklastiede/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklastiede)](https://github.com/niklastiede/github-readme-stats)
-
-
-</details>
-
 
 <p id="Icons" align="center">
   
