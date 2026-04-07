@@ -3,7 +3,7 @@
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
 <p align="justify">
-  Started in a chemistry lab, traded flasks for Java. Still synthesizing thing, just virtually. 😉 Currently exploring LLMs and building tools that make life easier.
+  Started in a chemistry lab, traded flasks for Java. Still synthesizing things, just virtually. 😉 Currently exploring LLMs and building tools that make life easier.
 </p>
 
 ## :pencil2: (Older) Blog posts
