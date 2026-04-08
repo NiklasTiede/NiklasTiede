@@ -1,10 +1,12 @@
-<!-- ![](assets/forrest.jpg) -->
-
 <h2 align="center">Hey there! <img src="assets/pikachu1.gif" width="50px"> </h2>
 
-<p align="justify">
-  Started in a chemistry lab, traded flasks for Java. Still synthesizing things, just virtually. 😉 Currently exploring LLMs and building tools that make life easier.
-</p>
+ <p align="justify">
+    Started in a chemistry lab, traded flasks for Java. Still synthesizing things, just   
+  virtually. 😉 Exploring LLMs and building tools that make life easier — like <a         
+  href="https://github.com/niklastiede/JobLens">JobLens</a>, an AI-powered job matching
+  tool for Switzerland that scores real job postings against your profile, all running in 
+  the browser.
+ </p>
 
 ## :pencil2: (Older) Blog posts
 
@@ -47,13 +49,3 @@ Visit [The Coding Lab](https://the-coding-lab.com/) if you're interested in Engi
 </p>
 
 Visit me on [Linkedin](https://www.linkedin.com/in/niklas-tiede/) or [Dev.to](https://dev.to/niklastiede)!
-
-<!-- ---
-
-Ask me anything [here](https://github.com/NiklasTiede/NiklasTiede/issues) or via email.
-Happy Coding!
- -->
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NiklasTiede&color=7d7038" />
-</p> -->
