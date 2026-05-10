@@ -2,10 +2,10 @@
 
 <p align="justify">
   Started in a chemistry lab, traded flasks for Java. Still synthesizing things, just
-  virtually. 😉 Exploring LLMs and agentic coding
+  virtually. 😉 Exploring LLMs and agentic coding.
 </p>
 
-#### Currently building
+### Currently building
 
 - **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** — A real-world web app (Spring Boot / React) that I keep evolving as a playground. Currently using it as a testbed for agentic coding integration.
 - **[JobLens](https://github.com/NiklasTiede/JobLens)** — LLM-powered job matching for the Swiss market. Scores job postings against your profile.
