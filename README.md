@@ -12,7 +12,7 @@
 
 <br>
 
-<h4 align="center">🤖 My Agentic Coding Setup</h4>
+<h4 align="center">Agentic Coding Setup</h4>
 
 <div align="center">
 <table>
