@@ -7,8 +7,8 @@
 
 ### Currently building
 
-- **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** — A real-world web app (Spring Boot / React) that I keep evolving as a playground. Currently using it as a testbed for agentic coding integration.
-- **[JobLens](https://github.com/NiklasTiede/JobLens)** — LLM-powered job matching for the Swiss market. Scores job postings against your profile.
+- **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** — A production-deployed movie discovery platform built as a modular Spring Boot and React application. It combines PostgreSQL, OpenSearch hybrid search, semantic recommendations, object storage, automated testing, CI/CD, and GitOps deployment on Kubernetes.
+- **[JobLens](https://github.com/NiklasTiede/JobLens)** — An LLM-powered job matching system for the Swiss market. It evaluates job postings against a candidate profile and produces explainable relevance scores.
 
 <br>
 
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="right"><b>Agents</b></td>
-    <td>Claude Code for design · Codex (GPT-5.5) for building</td>
+    <td>Claude Code for design · Codex (GPT-5.6) for building</td>
   </tr>
   <tr>
     <td align="right"><b>MCP Server</b></td>
