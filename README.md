@@ -1,51 +1,22 @@
 <h1 align="center">Hi, I'm Niklas</h1>
 
 <p align="center">
-  <strong>Software Engineer · Java & Spring Boot · TypeScript & React · Cloud-native systems</strong>
+  <strong>Software Engineer · Java & Spring Boot · TypeScript & React · Cloud-native systems</strong><br>
+  <a href="https://www.linkedin.com/in/niklas-tiede/">LinkedIn</a> · <a href="https://dev.to/niklastiede">Dev.to</a>
 </p>
 
-I enjoy turning an interesting idea into a useful product. I like working across
-the whole path, from understanding the problem and choosing an architecture to
-deployment and operation.
+I enjoy turning ideas into useful products and working across the whole path from
+architecture to deployment and operation. I started programming with Python and
+still use it to dig into data before making decisions.
 
-I started programming with Python and still use it often to dig into data before
-making a decision.
+## Projects
 
-## Currently building
+- **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** *(current focus)* - A live Spring Boot and React movie discovery platform with PostgreSQL, OpenSearch hybrid search, and semantic recommendations. I operate it on a self-hosted k3s cluster using Argo CD and Grafana, and validate agent-assisted changes through automated tests and operational metrics.
+- **[GitHub Trending API](https://github.com/NiklasTiede/Github-Trending-API)** - A FastAPI service with typed OpenAPI responses, caching, operational endpoints, CI and coverage, and automated Docker releases.
+- **[JobLens](https://github.com/NiklasTiede/JobLens)** - An LLM tool built for my own Swiss job search that turns job-posting matches into structured, explainable relevance scores.
 
-### [IMDb Clone](https://github.com/NiklasTiede/imdb-clone)
-
-A live movie discovery platform built as a modular Spring Boot and React
-application. It combines PostgreSQL, OpenSearch hybrid search, semantic
-recommendations, object storage, automated testing, CI/CD, and GitOps deployment
-on Kubernetes.
-
-This is the project I currently spend most of my engineering time on. I develop
-and operate it end to end: Argo CD deploys it to a self-hosted k3s cluster, and
-Grafana dashboards track application and infrastructure metrics. I also use the
-codebase to test agentic coding in practice. I do not treat generated code as
-correct by default; automated tests and operational metrics help me verify the
-changes.
-
-## Other work
-
-### [GitHub Trending API](https://github.com/NiklasTiede/Github-Trending-API)
-
-A FastAPI service that turns GitHub Trending into a typed JSON API for repositories
-and developers. It includes Pydantic/OpenAPI response models, caching, operational
-endpoints, CI and coverage, and automated Docker releases.
-
-### [JobLens](https://github.com/NiklasTiede/JobLens)
-
-I built JobLens to make my own job search more systematic. The application uses
-LLMs to evaluate Swiss job postings against a candidate profile and produces
-structured, explainable relevance scores.
-
-## Current interests
-
-I’m currently learning more about ERP systems and the data behind day-to-day
-business operations. I’m particularly interested in what that data can reveal
-about how a company actually works.
+**Current interests:** ERP systems and what their operational data can reveal about
+how a company works.
 
 ## Technologies
 
@@ -59,7 +30,3 @@ about how a company actually works.
   <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" alt="Python" />
 </p>
-
-## Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/niklas-tiede/) · [Dev.to](https://dev.to/niklastiede)
