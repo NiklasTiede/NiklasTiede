@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Niklas</h1>
 
 <p align="center">
-  <strong>Full-stack Software Engineer · Java & Spring Boot · TypeScript & React · Python agent systems · Cloud-native</strong><br>
+  <strong>Software Engineer · Java & Spring Boot · TypeScript & React · Python agent systems · Cloud-native</strong><br>
   <a href="https://www.linkedin.com/in/niklas-tiede/">LinkedIn</a> · <a href="https://dev.to/niklastiede">Dev.to</a>
 </p>
 
@@ -12,9 +12,9 @@ that turn natural-language and voice requests into testable application actions.
 
 ## Projects
 
-- **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** *(current focus)* — A live Spring Boot and React movie discovery platform with PostgreSQL, OpenSearch hybrid search, and semantic recommendations. I operate it on a self-hosted k3s cluster using Argo CD and Grafana. I am currently adding a Python agent service that translates voice commands into typed application actions, allowing the React client to navigate and render the appropriate UI.
-- **[GitHub Trending API](https://github.com/NiklasTiede/Github-Trending-API)** — A FastAPI service with typed OpenAPI responses, caching, operational endpoints, CI and coverage, and automated Docker releases.
-- **[JobLens](https://github.com/NiklasTiede/JobLens)** — An LLM tool built for my own Swiss job search that turns job-posting matches into structured, explainable relevance scores.
+- **[IMDb Clone](https://github.com/NiklasTiede/imdb-clone)** *(current focus)* - A live Spring Boot and React movie discovery platform with PostgreSQL, OpenSearch hybrid search, and semantic recommendations. I operate it on a self-hosted k3s cluster using Argo CD and Grafana. I am currently adding a Python agent service that translates voice commands into typed application actions, allowing the React client to navigate and render the appropriate UI.
+- **[GitHub Trending API](https://github.com/NiklasTiede/Github-Trending-API)** - A FastAPI service with typed OpenAPI responses, caching, operational endpoints, CI and coverage, and automated Docker releases.
+- **[JobLens](https://github.com/NiklasTiede/JobLens)** - An LLM tool built for my own Swiss job search that turns job-posting matches into structured, explainable relevance scores.
 
 **Open-source focus:** Reliable Python agent services with typed tools, structured
 outputs, evaluation, observability, and explicit control over side effects.
