@@ -12,9 +12,8 @@ that turn natural-language and voice requests into testable application actions.
 
 ## Projects
 
-- **[Popcorn Society](https://github.com/NiklasTiede/popcorn-society)** *(current focus)* - A live, production-style movie discovery platform built with Spring Boot, React, and Python. Its voice-first AI concierge recommends films, navigates the UI, and manages watchlists and ratings through typed, protected application tools. The platform combines PostgreSQL with OpenSearch hybrid and semantic search and runs on a self-hosted k3s cluster using Argo CD and Grafana.
+- **[Popcorn Society](https://github.com/NiklasTiede/popcorn-society)** - A live, production-style movie discovery platform built with Spring Boot, React, and Python. Its voice-first AI concierge recommends films, navigates the UI, and manages watchlists and ratings through typed, protected application tools. The platform combines PostgreSQL with OpenSearch hybrid and semantic search and runs on a self-hosted k3s cluster using Argo CD and Grafana.
 - **[GitHub Trending API](https://github.com/NiklasTiede/Github-Trending-API)** - A FastAPI service with typed OpenAPI responses, caching, operational endpoints, CI and coverage, and automated Docker releases.
-- **[JobLens](https://github.com/NiklasTiede/JobLens)** - An LLM tool built for my own Swiss job search that turns job-posting matches into structured, explainable relevance scores.
 
 **Open-source focus:** Reliable Python agent services with typed tools, structured
 outputs, evaluation, observability, and explicit control over side effects.
